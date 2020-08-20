@@ -24,7 +24,7 @@
           <div class="mr-2">
             <img :src='`https://www.countryflags.io/${summaryByCountry.CountryCode}/flat/32.png`'>
           </div>
-          <div class="text-xl">Russia</div>
+          <div class="text-xl">{{ summaryByCountry.Country }}</div>
         </div>
 
         <div class="mb-4">
