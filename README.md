@@ -1,4 +1,4 @@
-# covid-19-russia
+# covid-19-dashboard
 
 ## Project setup
 ```
